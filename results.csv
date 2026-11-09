@@ -1,0 +1,7 @@
+file,predicted,confidence
+early_1.jpg,Tomato_healthy,0.5818
+early_2.jpg,Tomato_Early_blight,0.995
+early_3.jpg,Tomato_Early_blight,0.9973
+early_4.jpg,Tomato_Early_blight,0.6571
+late_1.jpg,Tomato_Late_blight,1.0
+late_2.jpg,Tomato_Early_blight,0.5827
